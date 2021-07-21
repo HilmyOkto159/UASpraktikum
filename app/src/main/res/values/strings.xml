@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News Portal ID</string>
+    <string-array name="country">
+        <item>Indonesia</item>
+        <item>Japan</item>
+        <item>Korea</item>
+        <item>USA</item>
+        <item>Singapore</item>
+    </string-array>
+</resources>
